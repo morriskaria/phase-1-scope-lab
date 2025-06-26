@@ -5,15 +5,15 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-11T13:33:54.238Z",
-    "end": "2025-06-11T13:33:54.929Z",
-    "duration": 691
+    "start": "2025-06-26T06:59:52.961Z",
+    "end": "2025-06-26T06:59:54.342Z",
+    "duration": 1381
   },
   "tests": [
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -52,7 +52,7 @@
     {
       "title": "returns the customerName",
       "fullTitle": "Fix the Scope declare customerName to be bob in global scope returns the customerName",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
